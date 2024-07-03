@@ -32,6 +32,7 @@ import html from '/public/svg/skills/html.svg';
 import illustrator from '/public/svg/skills/illustrator.svg';
 import ionic from '/public/svg/skills/ionic.svg';
 import java from '/public/svg/skills/java.svg';
+import rust from '/public/svg/skills/rust.svg';
 import javascript from '/public/svg/skills/javascript.svg';
 import julia from '/public/svg/skills/julia.svg';
 import kotlin from '/public/svg/skills/kotlin.svg';
@@ -143,6 +144,8 @@ export const skillsImage = (skill) => {
       return go;
     case 'java':
       return java;
+    case 'rust':
+        return rust;
     case 'kotlin':
       return kotlin;
     case 'julia':
