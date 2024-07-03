@@ -6,9 +6,9 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/image/screen.jpg)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://portfolio-mu-murex-17.vercel.app/).
 
 ---
 
